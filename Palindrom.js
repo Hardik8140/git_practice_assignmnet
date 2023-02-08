@@ -1,7 +1,7 @@
 let str = "nrupul"
 
 let h2 =""
-    for (let i = (len)-1; i>=0; i--){
+    for (let i=str.length-1; i>=0; i--){
         h2=h2+str[i];
     }
     
